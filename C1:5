@@ -17,3 +17,12 @@ else:
     num_roots = 0
     print("No roots, discriminant < 0.")
     exit()
+
+
+OUTPUT:
+
+Quadratic function : (a * x^2) + b*x + c
+a: 5
+b: 20
+c: 10
+There are 2 roots: -0.585786 and -3.414214
