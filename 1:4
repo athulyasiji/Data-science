@@ -1,0 +1,7 @@
+import numpy as np
+print("Athulya Siji : 21MCA014")
+ar1d=np.arange(10)
+print(ar1d)
+print(ar1d[0:4])
+print(ar1d[ 4:])
+print(ar1d[2:7])
