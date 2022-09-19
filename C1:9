@@ -1,0 +1,7 @@
+print ("Athulya Siji 21MCA014")
+list1=["Athulya"]
+list2=["Siji"]
+print("list1"+str(list1))
+print("list2"+str(list2))
+add=[list1[i]+list2[i] for i in range(len(list1))]
+print("resultent is:"+str(add))
