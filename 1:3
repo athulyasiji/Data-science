@@ -1,0 +1,10 @@
+print ("Athulya Siji 21MCA014")
+n1=int(input("enter the ist side"))
+n2=int(input("enter the 2nd side"))
+n3=int(input("enter the 3rd side"))
+if n1==n2==n3:
+   print("traingle is equiltarel")
+elif n1==n2 or n2==n3 or n1==n3:
+   print("triangle is isociles")
+else:
+   print("triangle is scalar")
